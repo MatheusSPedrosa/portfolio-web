@@ -1,7 +1,6 @@
 
 function updateProfileInfo(profileData) {
     document.querySelector('.profile.photo')
-    console.log(photo)
 }
 
 async function fetchProfileData() {
