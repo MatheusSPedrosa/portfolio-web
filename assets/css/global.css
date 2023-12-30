@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url('..assets/img/background-page.svg');
+    background-image: url('../img/background-page.svg');
     background-color: black;
     color: white;
     animation: colors 30s ease infinite;
@@ -25,7 +25,7 @@ body {
 .main::before,
 .main::after {
     content: '';
-    background-image: url('..assets/img/background.svg');
+    background-image: url('../img/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 120vw;
