@@ -1,0 +1,75 @@
+{
+    "name": "Matheus Pedrosa",
+    "photo": "https://avatars.githubusercontent.com/u/152664230?v=4",
+    "job": "Developer",
+    "location": "Rio de Janeiro - RJ",
+    "phone": "(21) 96530-3253",
+    "email": "smatheuspedrosa@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Java",
+          "logo": "https://github.com/MatheusSPedrosa/js-pokedex/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Javascript",
+          "logo": "https://github.com/MatheusSPedrosa/js-pokedex/main/data/imgs/java.png"
+        },
+        {
+          "name": "Cascading Style Sheets",
+          "logo": "https://github.com/MatheusSPedrosa/js-pokedex/main/data/imgs/angular.png"
+        },
+        {
+          "name": "NodeJS",
+          "logo": "https://github.com/MatheusSPedrosa/js-pokedex/main/data/imgs/react.png"
+        },
+        {
+          "name": "Google Cloud Platform",
+          "logo": "https://github.com/MatheusSPedrosa/js-pokedex/main/data/imgs/mongodb.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "language": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (intermediário)"
+    ],
+    "project": [
+      {
+        "name": "Requisição de API",
+        "url": "https://github.com/MatheusSPedrosa/js-pokedex",
+        "github": true
+      },
+      {
+        "name": "Em breve...",
+        "url": "https:/",
+        "github": false
+      },
+      {
+        "name": "Em breve...",
+        "url": "https:/",
+        "github": false
+      }
+    ],
+    "certificate": [
+      {
+        "name": "Arquiteto de software / S3 BANK",
+        "period": "2022 - até o momento"
+      },
+      {
+        "name": "Software Engineering Lead / DIO",
+        "period": "2021 - 2022"
+      },
+      {
+        "name": "CEO / Brain Machine",
+        "period": "2016 - 2021"
+      }
+    ]
+  }
